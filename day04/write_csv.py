@@ -1,0 +1,30 @@
+import csv
+
+# id, name, salary, department
+employees = [
+    [1001, "Brian Otieno", 12500, "Data Engineering"],
+    [1002, "Mary Wanjiku", 8700, "Analytics"],
+    [1003, "Kevin Mwangi", 5400, "IT Support"],
+    [1004, "Faith Achieng", 15200, "Business Intelligence"],
+    [1005, "Daniel Kiptoo", 22000, "Cloud Engineering"],
+    [1006, "Lucy Njeri", 9300, "Data Quality"],
+    [1007, "Samuel Kamau", 6100, "Junior Data Engineering"],
+    [1008, "Ann Wambui", 18700, "Data Science"],
+    [1009, "Peter Ouma", 19800, "Platform Engineering"],
+    [1010, "Jane Chebet", 7600, "Reporting & Analytics"]
+]
+
+with open("employees.csv", "w", newline="") as file:
+
+    writer = csv.writer(file)
+
+    writer.writerow([
+        "ID",
+        "Name",
+        "Salary",
+        "Department"
+    ])
+
+    writer.writerows(employees)
+
+    print("Employees.csv has been created successfully!")

@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "1001",
+        "Name": "Brian Otieno",
+        "Salary": "12500",
+        "Department": "Data Engineering"
+    },
+    {
+        "ID": "1004",
+        "Name": "Faith Achieng",
+        "Salary": "15200",
+        "Department": "Business Intelligence"
+    },
+    {
+        "ID": "1005",
+        "Name": "Daniel Kiptoo",
+        "Salary": "22000",
+        "Department": "Cloud Engineering"
+    },
+    {
+        "ID": "1008",
+        "Name": "Ann Wambui",
+        "Salary": "18700",
+        "Department": "Data Science"
+    },
+    {
+        "ID": "1009",
+        "Name": "Peter Ouma",
+        "Salary": "19800",
+        "Department": "Platform Engineering"
+    }
+]
