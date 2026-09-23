@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 36.6822,
+        "lat": -3.3869
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 293.86,
+        "feels_like": 293.55,
+        "temp_min": 293.86,
+        "temp_max": 293.86,
+        "pressure": 1018,
+        "humidity": 60,
+        "sea_level": 1018,
+        "grnd_level": 872
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.37,
+        "deg": 130,
+        "gust": 7.03
+    },
+    "clouds": {
+        "all": 48
+    },
+    "dt": 1790190267,
+    "sys": {
+        "country": "TZ",
+        "sunrise": 1790133747,
+        "sunset": 1790177346
+    },
+    "timezone": 10800,
+    "id": 161325,
+    "name": "Arusha",
+    "cod": 200
+}
