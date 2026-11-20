@@ -1,0 +1,17 @@
+2026-11-20 18:29:07,988 - INFO - Weather ETL process started
+2026-11-20 18:29:07,989 - INFO - Fetching weather data for Arusha
+2026-11-20 18:29:09,854 - INFO - Successfully retrieved weather data for Arusha
+2026-11-20 18:29:09,857 - INFO - Weather data saved to weather_data_5_cities.json
+2026-11-20 18:29:09,857 - INFO - Fetching weather data for Kakamega
+2026-11-20 18:29:11,384 - INFO - Successfully retrieved weather data for Kakamega
+2026-11-20 18:29:11,385 - INFO - Weather data saved to weather_data_5_cities.json
+2026-11-20 18:29:11,385 - INFO - Fetching weather data for Kinshasa
+2026-11-20 18:29:13,256 - INFO - Successfully retrieved weather data for Kinshasa
+2026-11-20 18:29:13,261 - INFO - Weather data saved to weather_data_5_cities.json
+2026-11-20 18:29:13,264 - INFO - Fetching weather data for Lagos
+2026-11-20 18:29:15,009 - INFO - Successfully retrieved weather data for Lagos
+2026-11-20 18:29:15,013 - INFO - Weather data saved to weather_data_5_cities.json
+2026-11-20 18:29:15,014 - INFO - Fetching weather data for Bangui
+2026-11-20 18:29:16,554 - INFO - Successfully retrieved weather data for Bangui
+2026-11-20 18:29:16,558 - INFO - Weather data saved to weather_data_5_cities.json
+2026-11-20 18:29:16,559 - INFO - Weather ETL process completed
